@@ -11,7 +11,7 @@
 - JavaScript. Архитектура клиентских приложений;
 - React. Разработка сложных клиентских приложений;
 
-В настоящий момент, занимаюсь прокачкой навыков на codewars и реализацией отдельных компонентов (например custom-select)(сслыку сделать)
+В настоящий момент, занимаюсь прокачкой навыков на codewars и реализацией отдельных компонентов (например [custom-select](https://github.com/albertZubov/custom-select))
 
 Найти меня можно здесь:  [![Telegram Badge](https://img.shields.io/badge/-albertZubov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/albert_zubov) [![WhatsApp Badge](https://img.shields.io/badge/-Albert_Zubov-brightgreen?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=79202845498) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:0.albertzubov@gmail.com)
 
